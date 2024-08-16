@@ -1,17 +1,6 @@
 # Bank Simulator with Interest
 
-## 🎬 Recorded Sessions
-
-| Link        | Instructor | Event |
-| ----------- | ---------- | ----- |
-| [<img src="https://raw.githubusercontent.com/Solana-Workshops/.github/main/.docs/youtube-icon.png" alt="youtube" width="20" align="center"/> Recording](https://youtu.be/NdAqDliplbs) | Bolt        | [Superteam Lurkers on Zoom](https://lu.ma/solanabanksimulator)     |
-
-## ☄️ Open in Solana Playground IDE
-
-| Program         | Link                                                                                                                                                                               |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bank Simulator | [ ![program](https://ik.imagekit.io/mkpjlhtny/solpg_button_zWM8WlPKs.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1662621556513)](https://beta.solpg.io/65008f7b6f50baeacc2cd48d) |
-
+ 
 
 ## 📗 Learn
 
